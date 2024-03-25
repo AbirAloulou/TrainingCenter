@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pfa">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pfa.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
